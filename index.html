@@ -20,13 +20,25 @@
 
   </head>
   <header>
-    <div class="container">
+    <div class="container header">
       <h1>Ping Pong!</h1>
     </div>
   </header>
   <body>
     <div class="container">
-      <div class="input-form">
+      <div class="body">
+        <h2>Let's Play!</h2>
+        <h3>Rules:</h3>
+        <p>
+          Ping Pong will count up to your number by 1s with the following exceptions:
+        </p>
+        <ol>
+          <li>Numbers divisible by 3 become "ping"</li>
+          <li>Numbers divisible by 5 become "pong"</li>
+          <li>Numbers divisible by 3 and 5 become "pingpong"</li>
+        </ol>
+      </div>
+      <div class="input-form body">
         <form id="numberForm">
           <div class="form-group">
             <label for="numberInput">Enter a numerical number!</label>

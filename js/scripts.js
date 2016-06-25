@@ -3,13 +3,13 @@
   function pingPong(input) {
     for (var i=0; i <= input; i+=1) {
       if(i % 15 === 0) {
-        console.log("pingpong");
+        $("ul#numberOutput").append("<li>pingpong</li>");
       } else if (i % 3 === 0) {
-        console.log("ping");
+        $("ul#numberOutput").append("<li>ping</li>");
       } else if (i % 5 === 0) {
-        console.log("pong");
+        $("ul#numberOutput").append("<li>pong</li>");
       } else {
-        console.log(i);
+        $("ul#numberOutput").append("<li>" + i + "</li>");
       }
     }
   }

@@ -1,0 +1,29 @@
+.header {
+  background-image: url(../img/pingpong.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 7rem;
+  padding: 85px;
+  text-align: center;
+  color: white;
+  text-shadow: 3px 1px 2px rgba(0, 0, 0, 1);
+}
+
+body {
+  background-color: #b3d9ff;
+}
+
+.body {
+  padding-top: 2%;
+  text-align: center;
+}
+
+ul, ol {
+  list-style-position: inside;
+}
+
+ul {
+  list-style-type: square;
+}

@@ -9,28 +9,20 @@ For any number inputted, the program will count up to that number. For numbers d
 For example:
 
 1. For any number not divisible by 3, 5, and 15, print out the number:
-
-*Input: 2
-
-*Output: 1, 2
+  - Input: 2
+  - Output: 1, 2
 
 2. For numbers divisible by 3, output ping.
-
-*Input: 3
-
-*Output: 1, 2, ping
+  - Input: 3
+  - Output: 1, 2, ping
 
 3. For numbers divisible by 5, output pong.
-
-*Input: 5
-
-*Output: 1, 2, ping, 4, pong
+  - Input: 5
+  - Output: 1, 2, ping, 4, pong
 
 4. For numbers divisible by 15, output pingpong.
-
-*Input: 15
-
-*Output: 1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong
+ - Input: 15
+ - Output: 1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong
 
 ##Technologies
 JavaScript, JQuery, BootStrap, HTML and CSS

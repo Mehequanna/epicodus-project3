@@ -1,7 +1,7 @@
 // Business End Logic
 
   function pingPong(input) {
-    for (var i=0; i <= input; i+=1) {
+    for (var i=1; i <= input; i+=1) {
       if(i % 15 === 0) {
         $("ul#numberOutput").append("<li>pingpong</li>");
       } else if (i % 3 === 0) {
@@ -23,5 +23,3 @@ $(document).ready(function() {
     event.preventDefault();
   });
 });
-
-// $("ul#numberOutput").append("<li>pingpong</li>");

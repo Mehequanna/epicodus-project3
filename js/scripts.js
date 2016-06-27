@@ -22,6 +22,10 @@ $(document).ready(function() {
     var input = parseInt($("input#numberInput").val());
     pingPong(input);
 
+    for (var i = 0; i < output.length; i ++) {
+      $("ul#numberOutput").append("<li>" + output[i] + "</li>");
+    }
+
     event.preventDefault();
   });
 });

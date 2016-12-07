@@ -2,7 +2,9 @@
 Ping Pong!
 
 ## Features
-This will be a page were a user inputs a number and the browser will count up to that number and insert ping, pong, and pingpong along the way.
+This is a page where a user inputs a number and the browser will count up to that number and insert ping, pong, and pingpong along the way.
+
+![screenshot of project](pingpong.png)
 
 ## Specifications
 For any number inputted, the program will count up to that number. For numbers divisible by 3, 5, and 15, the program will output ping, pong, and pingpong respectively.
@@ -29,6 +31,7 @@ JavaScript, JQuery, BootStrap, HTML and CSS
 
 ## Usage
 To view the site, you can go to https://mehequanna.github.io/epicodus-project3.
+
 To use the code, you can clone the repository at [https://github.com/Mehequanna/epicodus-project3](https://github.com/Mehequanna/epicodus-project3).
 
 1. Download the project.

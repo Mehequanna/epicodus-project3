@@ -38,7 +38,7 @@ To use the code, you can clone the repository at [https://github.com/Mehequanna/
 2. Open index.html in your browser.
 3. Have fun!
 
-## Author/s
+## Author
 Stephen Emery
 
 ##License

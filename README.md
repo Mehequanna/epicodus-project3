@@ -26,7 +26,7 @@ For example:
  - Input: 15
  - Output: 1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong
 
-##Technologies
+## Technologies
 JavaScript, JQuery, BootStrap, HTML and CSS
 
 ## Usage
@@ -41,6 +41,6 @@ To use the code, you can clone the repository at [https://github.com/Mehequanna/
 ## Author
 Stephen Emery
 
-##License
+## License
 This work can be used under the MIT License.
 Copyright (c) 2016 Stephen Emery
